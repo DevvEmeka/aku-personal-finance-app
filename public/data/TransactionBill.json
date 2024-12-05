@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "title": "Spark Electrity Solutions",
+    "category": "General",
+    "transactionDate": "Monthly-2nd",
+    "amount": 100
+  },
+  {
+    "id": 2,
+    "title": "Elevate Education",
+    "category": "Dining Out",
+    "transactionDate": "Monthly-3rd",
+    "amount": 200
+  },
+  {
+    "id": 3,
+    "title": "Elevate Education",
+    "category": "Dining Out",
+    "transactionDate": "Monthly-3rd",
+    "amount": 200
+  },
+  {
+    "id": 4,
+    "title": "Elevate Education",
+    "category": "Dining Out",
+    "transactionDate": "Monthly-3rd",
+    "amount": 200
+  },
+  {
+    "id": 5,
+    "title": "Elevate Education",
+    "category": "Dining Out",
+    "transactionDate": "Monthly-3rd",
+    "amount": 200
+  },
+  {
+    "id": 6,
+    "title": "Elevate Education",
+    "category": "Dining Out",
+    "transactionDate": "Monthly-3rd",
+    "amount": 200
+  },
+  {
+    "id": 7,
+    "title": "Elevate Education",
+    "category": "Dining Out",
+    "transactionDate": "Monthly-3rd",
+    "amount": 200
+  },
+  {
+    "id": 8,
+    "title": "Elevate Education",
+    "category": "Dining Out",
+    "transactionDate": "Monthly-3rd",
+    "amount": 200
+  },
+  {
+    "id": 9,
+    "title": "Elevate Education",
+    "category": "Dining Out",
+    "transactionDate": "Monthly-3rd",
+    "amount": 200
+  },
+  {
+    "id": 10,
+    "title": "Elevate Education",
+    "category": "Dining Out",
+    "transactionDate": "Monthly-3rd",
+    "amount": 200
+  },
+  {
+    "id": 11,
+    "title": "Elevate Education",
+    "category": "Dining Out",
+    "transactionDate": "Monthly-3rd",
+    "amount": 200
+  },
+  {
+    "id": 12,
+    "title": "Elevate Education",
+    "category": "Dining Out",
+    "transactionDate": "Monthly-3rd",
+    "amount": 200
+  },
+  {
+    "id": 13,
+    "title": "Elevate Education",
+    "category": "Dining Out",
+    "transactionDate": "Monthly-3rd",
+    "amount": 200
+  },
+  {
+    "id": 14,
+    " title": "ByteWise",
+    "category": "Groceries",
+    "transactionDate": "Monthly-4th",
+    "amount": 400
+  }
+]
